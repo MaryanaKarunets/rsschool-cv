@@ -33,3 +33,15 @@ I’m working as a System Analyst with more than 2 years of experience in the IT
 
 
 **SOFT SKILLS**
+
+* Always focus on the result, I strive to "put the squeeze" to the end
+* Able to quickly grasp new application areas
+* Quite pragmatic, it allows me to follow the goal
+
+
+
+**COURSES**
+* [Web-developer (Udemy)](https://www.udemy.com/certificate/UC-91e38e08-6aec-43b2-a043-ac3908f00254/)
+
+* Wed-development with JavaScript (CODEGIRL school)
+* [English C1](https://cert.efset.org/FTgdL2)
