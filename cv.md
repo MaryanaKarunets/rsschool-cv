@@ -29,6 +29,7 @@ Now I’m working as a System Analyst with more than 3 years of experience in th
 * Git, GitHub
 * VS Code
 * Figma
+* DOM
 
 
 
