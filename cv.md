@@ -6,10 +6,10 @@
 ## contact information:
 
 
-### tel:+375-29-338-79-20 
-### e-mail: MaryanaKarunets@gmail.com
-### telegram: @Karunets_m
-### [linledIn](https://www.linkedin.com/in/maryana-karunets-2b845a205/)
+### Tel:+375-29-338-79-20 
+### E-mail: MaryanaKarunets@gmail.com
+### Telegram: @Karunets_m
+### [LinkedIn](https://www.linkedin.com/in/maryana-karunets-2b845a205/)
 
 
 
