@@ -1,4 +1,4 @@
-# Maryana Karunets
+# MARYANA KARYNETS
 
 ## Web-developer
 
