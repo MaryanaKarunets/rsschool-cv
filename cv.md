@@ -1,9 +1,9 @@
 # Maryana Karunets
 
-## web-developer
+## Web-developer
 
 
-## contact information:
+## **contact information:**
 
 
 ### Tel:+375-29-338-79-20 
