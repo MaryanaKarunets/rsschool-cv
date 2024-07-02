@@ -43,6 +43,5 @@ Now I’m working as a System Analyst with more than 3 years of experience in th
 
 **COURSES**
 * [Web-developer (Udemy)](https://www.udemy.com/certificate/UC-91e38e08-6aec-43b2-a043-ac3908f00254/)
-
 * Wed-development with JavaScript (CODEGIRL school)
 * [English C1](https://cert.efset.org/FTgdL2)
