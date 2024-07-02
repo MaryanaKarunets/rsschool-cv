@@ -3,7 +3,7 @@
 ## Web-developer
 
 
-## **contact information:**
+## **Contact information:**
 
 
 ### Tel:+375-29-338-79-20 
