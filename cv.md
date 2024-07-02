@@ -7,8 +7,8 @@
 
 
 ### Tel:+375-29-338-79-20 
-### E-mail: MaryanaKarunets@gmail.com
 ### Telegram: @Karunets_m
+### E-mail: MaryanaKarunets@gmail.com
 ### [LinkedIn](https://www.linkedin.com/in/maryana-karunets-2b845a205/)
 
 
