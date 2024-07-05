@@ -32,6 +32,11 @@ nav {
     text-transform: uppercase;
 }
 
+.menu_link:hover {
+    color: rgb(232, 53, 211);
+    transition: 1s;
+}
+
 .general {
     background-color: dimgrey;
     color: #ffff;
@@ -43,7 +48,7 @@ h1 {
 }
 
 h2 {
-    padding-top: 30px;
+    padding: 20px 60px;
     color: #ffff;
     text-transform: uppercase;
 }
@@ -64,6 +69,7 @@ h2 {
 
 .contacts_menu_link:hover {
     color: rgb(232, 53, 211);
+    transition: 1s;
 }
 
 .contacts_menu_item {
@@ -94,12 +100,6 @@ h2 {
     color: #ffff;
 }
 
-.summary_title,
-.skills_title {
-    text-transform: uppercase;
-    padding: 20px 30px;
-}
-
 .summary p {
     color: #ffff;
     text-align: center;
@@ -112,4 +112,46 @@ h2 {
     height: 4px;
     background-color: rgb(146, 111, 142);
     margin: 0 auto;
+}
+
+.skills_menu {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.skills_list {
+    width: 200px;
+    margin-bottom: 60px;
+    margin-left: 90px;
+}
+
+.soft_scills {
+    padding-bottom: 40px;
+}
+
+.soft_scills_descr {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.code {
+    padding-bottom: 40px;
+}
+
+.code_example {
+    margin-left: 200px;
+}
+
+.english {
+    display: flex;
+    align-items: center;
+}
+
+.eng_sert,
+.restaurant_img {
+    width: 150px;
+    height: 200px;
+    object-fit: cover;
+    box-shadow: 0 1px 10px rgb(0 0 0 / 60%);
 }
