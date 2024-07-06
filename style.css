@@ -1,0 +1,212 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    position: relative;
+    height: 50px;
+}
+
+nav {
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    background-color: #212121;
+    z-index: 2;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    padding: 13px 70px;
+    margin: 0;
+    list-style-type: none;
+}
+
+.menu_link {
+    color: #ffff;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.menu_link:hover {
+    color: rgb(232, 53, 211);
+    transition: 1s;
+}
+
+.general {
+    background-color: dimgrey;
+    color: #ffff;
+}
+
+h1 {
+    padding-top: 10px;
+    text-transform: uppercase;
+}
+
+h2 {
+    padding: 20px 60px;
+    color: #ffff;
+    text-transform: uppercase;
+}
+
+.name {
+    padding-left: 0;
+}
+
+.contacts_menu {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 13px;
+    margin: 0;
+    list-style-type: none;
+}
+
+.contacts_menu_link {
+    color: #ffff;
+    text-decoration: none;
+}
+
+.contacts_menu_link:hover,
+.github_link:hover {
+    color: rgb(232, 53, 211);
+    transition: 1s;
+}
+
+.contacts_menu_item {
+    padding-top: 20px;
+}
+
+.general_img {
+    padding-top: 10px;
+}
+
+.general_img img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    box-shadow: 0 1px 10px rgb(0 0 0 / 60%);
+    border-radius: 50%;
+}
+
+.container,
+.projects_all {
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.information,
+.skills,
+.projects {
+    background-color: dimgrey;
+    color: #ffff;
+}
+
+.summary p {
+    color: #ffff;
+    text-align: center;
+    max-width: 900px;
+    margin: 0 auto;
+    padding-bottom: 60px;
+}
+
+.divider {
+    height: 4px;
+    background-color: rgb(146, 111, 142);
+    margin: 0 auto;
+}
+
+.skills_menu {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.skills_list,
+.projects_all {
+    width: 200px;
+    margin-bottom: 60px;
+    margin-left: 90px;
+}
+
+.soft_scills {
+    padding-bottom: 40px;
+}
+
+.soft_scills_descr {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.courses_menu_link {
+    text-decoration: none;
+    color: #ffff;
+}
+
+.code {
+    padding-bottom: 40px;
+}
+
+.code_example {
+    margin-left: 200px;
+}
+
+.english_img {
+    padding-left: 400px;
+    padding-bottom: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.eng_sert {
+    width: 150px;
+    height: 200px;
+    object-fit: cover;
+    box-shadow: 0 1px 10px rgb(0 0 0 / 60%);
+    border-radius: 5px;
+}
+
+.project {
+    padding-right: 20px;
+}
+
+.projects_all {
+    margin-left: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.projects_img {
+    width: 150px;
+    height: 200px;
+    object-fit: cover;
+    box-shadow: 0 1px 10px rgb(0 0 0 / 60%);
+    border-radius: 5px;
+}
+
+.footer_content {
+    background-color: #333333f3;
+    padding: 70px 20px 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    min-width: calc(100% - 20px);
+    color: #c2cdcf;
+}
+
+.github_link {
+    text-decoration: none;
+    color: #ffff;
+}
+
+.rss {
+    width: 121px;
+    height: 45px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
